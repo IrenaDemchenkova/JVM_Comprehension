@@ -20,7 +20,7 @@ public class JvmComprehension {
 ***
 *_Компиляция кода в байт-код_*
 
-В терминале команда javac filename.java). Результат: файл JvmComprehension.class
+В терминале команда javac JvmComprehension.java. Результат: файл JvmComprehension.class
 
 *_Запуск программы_*
 
